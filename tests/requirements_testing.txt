@@ -8,5 +8,4 @@ ipywidgets
 numpy
 scipy
 pandas
-ipympl
 SimpleITK>=1.2.2
